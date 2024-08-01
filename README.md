@@ -5,6 +5,8 @@ linkedIn:-in/akash-bhandari-0258b3231
 Leetcode:https://leetcode.com/u/Wizard000/
 
 skills -
+![image](https://github.com/user-attachments/assets/f6dbcb1f-0b8b-4769-b85f-8035de3304c1)
+
  ![image](https://github.com/user-attachments/assets/23416702-7252-402b-8eca-b7120677aa68)  ![image](https://github.com/user-attachments/assets/a8193c26-83d7-4a66-aef4-a63c9e403d3d)  ![image](https://github.com/user-attachments/assets/38a38049-f650-4406-b8f9-046badc0e234)  ![image](https://github.com/user-attachments/assets/0b85e713-2131-4e9c-92f0-ec0f7b461332)
 
 
