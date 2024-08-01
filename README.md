@@ -1,7 +1,7 @@
 ## Hi  👋  I am Akash Bhandari
 
 connect with me -
-linkedIn:in/akash-bhandari-0258b3231
+linkedIn:-in/akash-bhandari-0258b3231
 Leetcode:https://leetcode.com/u/Wizard000/
 
 skills -
