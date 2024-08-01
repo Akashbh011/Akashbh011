@@ -1,4 +1,4 @@
-## Hi  👋  I am Akash Bhandari![icons8-computer](https://github.com/user-attachments/assets/2b205141-d8cf-4360-9e3c-96b18da1ac22)
+![icons8-programming](https://github.com/user-attachments/assets/f51884bf-9631-44c5-be68-51f86206f155) Hi  👋I am Akash Bhandari  ![icons8-programming](https://github.com/user-attachments/assets/f51884bf-9631-44c5-be68-51f86206f155)
 
 connect with me -
 Leetcode:https://leetcode.com/u/Wizard000/
