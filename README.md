@@ -5,12 +5,12 @@ Leetcode:https://leetcode.com/u/Wizard000/
 linkedIn:-linkedin/akash-bhandari-0258b3231
 
 skills -
-java OOPS
-Data Structures and Algorithms 
-Database Management Systems
-Software Engineering 
-Html CSS JS NODEJS mongoDB SQL 
-Machine Learning / Natural Language Processing 
+> java OOPS
+. Data Structures and Algorithms 
+. Database Management Systems
+. Software Engineering 
+. Html CSS JS NODEJS mongoDB SQL 
+. Machine Learning / Natural Language Processing 
 
 
 <!--
