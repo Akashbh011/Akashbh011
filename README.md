@@ -1,7 +1,8 @@
-## Hi  👋  I am Akash Bhandari
+## Hi  👋  I am Akash Bhandari![icons8-computer](https://github.com/user-attachments/assets/2b205141-d8cf-4360-9e3c-96b18da1ac22)
 
 connect with me -
 Leetcode:https://leetcode.com/u/Wizard000/
+
 linkedIn:-[linkedin/akash-bhandari-0258b3231](https://www.linkedin.com/in/akash-bhandari-0258b3231/)
 
 skills -
