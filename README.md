@@ -2,7 +2,7 @@
 
 connect with me -
 Leetcode:https://leetcode.com/u/Wizard000/
-linkedIn:-linkedin/akash-bhandari-0258b3231
+linkedIn:-[linkedin/akash-bhandari-0258b3231](https://www.linkedin.com/in/akash-bhandari-0258b3231/)
 
 skills -
 > java OOPS
