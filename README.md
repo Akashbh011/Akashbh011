@@ -1,4 +1,4 @@
-![logo](https://github.com/Akashbh011/Akashbh011/blob/main/Akash%20Bhandari-1.png)
+![logo](https://github.com/Akashbh011/Akashbh011/blob/main/Akash%20Bhandari%20banner.png)
 <h1 align="center">Hi 👋, I'm Akash Bhandari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
